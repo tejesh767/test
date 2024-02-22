@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.eachTask {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.modifyButton {
+  background-color: grey;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}

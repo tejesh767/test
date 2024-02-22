@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.container {
+  height: 100vh;
+  text-align: center;
+}
+.top {
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: space-around;
+}
+.table {
+  margin: 100px;
+}
+.header {
+  margin: 40px;
+}
+.topPa {
+  font-weight: bold;
+}
+.button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+}
